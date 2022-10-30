@@ -4,7 +4,7 @@ This Game Design Planning is the top-level design of the game with the title “
 
 
 ## Game Design Planning (PDF)
-Please find in the repo [here](https://github.com/ivanmolto/robauto-xyz-mmd/blob/main/robauto-monetization-model-design.pdf) the Game Design Planning or download from IPFS [here](https://ivanmolto.mypinata.cloud/ipfs/QmThT2j3SyqNu8ATUsDh64fC12SsuTd5MVYzSs3SBbChq7)
+Please find in the repo [here](https://github.com/ivanmolto/robauto-xyz-gdp/blob/main/robauto-game-design-planning.pdf) the Game Design Planning or download from IPFS [here](https://ivanmolto.mypinata.cloud/ipfs/QmQr3W5ftJ9v8ZU4NHQGCj8hYo7WAqE9akTf1mZHog3M6f)
 
 
 ## Pitch Video (YouTube)
