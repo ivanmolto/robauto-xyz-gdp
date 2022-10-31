@@ -8,6 +8,6 @@ Please find in the repo [here](https://github.com/ivanmolto/robauto-xyz-gdp/blob
 
 
 ## Pitch Video (YouTube)
-Please watch the video [here]()
+Please watch the video [here](https://youtu.be/oztjpXLPhws)
 
 This is a submission for the challenge of the Hackathon "I, Game & Robot" sponsored by DeAutoDAO.
